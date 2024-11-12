@@ -8,7 +8,7 @@
 git init
 ```
 
-### To know which files GIT knows does exist
+### To know the state of working directory and the staging area
 
 ```
 git status
