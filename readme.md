@@ -7,3 +7,4 @@ The repository will be updated at every class.
 
 1. Git basics (Week 6)
 2. Object Oriented Programming (Week 8)
+3. Tic Tac Toe Game in Terminal (Week 9)
