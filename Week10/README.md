@@ -4,7 +4,11 @@ This is a tic tac toe game playable in the temrinal
 ## How to Play
 
 1. Make sure you have Python installed
-2. 
+2. In the terminal run 
+```
+python main.py
+```
+3. Follow neccessary information and enjoy the game!
 
 ## How to Develop
 
@@ -12,7 +16,7 @@ This is a tic tac toe game playable in the temrinal
 ```
 git clone git@github.com:itsgreddy/TECHIN509-AU24.git
 cd TECHIN509-AU24
-cd Week9
+cd Week10
 ```
 
 ### Setup a new virtual environment, and activate it for this temrinal session
